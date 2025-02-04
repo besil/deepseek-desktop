@@ -23,6 +23,10 @@ DeepSeek Desktop App is an unofficial client for DeepSeek, providing a simple we
    ```sh
    npm install
    ```
+4. Build
+   ```sh
+   npm run build
+   ```
 
 ## Usage
 
